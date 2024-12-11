@@ -1,9 +1,9 @@
 blank_issues_enabled: false
 contact_links:
-  - name: v3.0.0 Beta feedback
-    url: https://github.com/khulnasoft/khulnasoft-python/discussions/116
+  - name: v1.0.0 Beta feedback
+    url: https://github.com/khulnasoft/khulnasoft-python/discussions/3
     about: |
-      If you have a feature request or feedback on our new v3 library, please comment in our discussion page.
+      If you have a feature request or feedback on our new v1 library, please comment in our discussion page.
   - name: Khulnasoft support
     url: https://developers.khulnasoft.com/support/contacting-khulnasoft-support
     about: |
